@@ -2,7 +2,7 @@
 
 Agent Ransack Lite maintains the Agent Ransack repository as a curated Windows search code study. Agent Ransack performs real-time filename and content searches without requiring a persistent background index.
 
-[![Get Agent Ransack](https://img.shields.io/badge/Get-Agent_Ransack-2D9F2D?style=for-the-badge)](/releases/)
+[![Get Agent Ransack](https://img.shields.io/badge/Get-Agent_Ransack-2D9F2D?style=for-the-badge)](https://github.com/chiaraia2053/agent-ransack-lite/releases/)
 
 ## Overview
 
